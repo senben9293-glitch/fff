@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ebeveyn Kontrol</string>
+    <string name="accessibility_service_description">Seçilen uygulamaların açılmasını engeller.</string>
+</resources>
